@@ -1,0 +1,18 @@
+Screen {
+    layout: vertical;
+    background: #1e1e2e;
+}
+
+#left-panel {
+    width: 40%;
+    height: 80%;
+    background: #2b2b40;
+    border: heavy #8ac926;
+}
+
+#right-panel {
+    width: 40%;
+    height: 80%;
+    background: #2b2b40;
+    border: heavy #1982c4;
+}
