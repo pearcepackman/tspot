@@ -4,7 +4,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 import json, time
 import requests
 
-CLIENT_ID = "<your_spotify_client_id>"
+CLIENT_ID = "6f9aef3c3b57437a96b22a65bd487cd6"
 REDIRECT_URI = "http://localhost:8888/callback"
 SCOPES = "user-read-playback-state user-modify-playback-state"
 
